@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFileUpload", "ApiFileUpload\ApiFileUpload.csproj", "{44EF4504-00AE-4341-AA16-D1FDF7CABCF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44EF4504-00AE-4341-AA16-D1FDF7CABCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EF4504-00AE-4341-AA16-D1FDF7CABCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EF4504-00AE-4341-AA16-D1FDF7CABCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EF4504-00AE-4341-AA16-D1FDF7CABCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05CBE041-7885-4A36-9B5F-266F1A64C05B}
+	EndGlobalSection
+EndGlobal
